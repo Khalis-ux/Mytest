@@ -6,7 +6,7 @@ setup(
     packages=[''],
     url='',
     license='MIT License',
-    author='AnonymousW',
+    author='Khalis-ux',
     author_email='',
     description='This is just a trial'
 )
